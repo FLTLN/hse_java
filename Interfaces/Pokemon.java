@@ -1,0 +1,4 @@
+interface Pokemon
+{
+    void choose();
+}
