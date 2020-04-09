@@ -23,7 +23,7 @@ public class Main
         } 
         catch (Exception e) 
         {
-            System.out.print("Ошибка обработки!\nПроверьте введённые данные.\n");
+            System.err.print("Ошибка обработки!\nПроверьте введённые данные.\n");
             in.close();
         }
     }    
