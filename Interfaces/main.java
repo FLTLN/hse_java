@@ -7,7 +7,7 @@
  * So, just first look to Java and Javadoc.
  * 
  */
-class HelloWorld
+class main
 {
     /**
      * 
